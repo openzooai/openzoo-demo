@@ -1,0 +1,5 @@
+# conda
+.conda
+
+# pycache
+__pycache__
